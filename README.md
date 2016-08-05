@@ -1,2 +1,2 @@
-# Welcome To My Own Blo
+# Welcome To My Own Blog
 JDliu's Blog
